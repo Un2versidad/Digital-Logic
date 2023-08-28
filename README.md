@@ -56,3 +56,4 @@ Explore the content for learning and inspiration.
 
 - **Schematic Diagrams:** [Basys 3 Schematic (PDF)](https://digilent.com/reference/_media/reference/programmable-logic/basys-3/basys-3_sch.pdf)
 - **Basys3 Manual:** [Basys 3 Reference Manual](https://digilent.com/reference/programmable-logic/basys-3/reference-manual)
+- **Constraints:** [Basys 3 Constraints (XDC)](https://raw.githubusercontent.com/qzxtu/Digital-Logic/main/Constraints%20Template/Basys3_Constraints.xdc?token=GHSAT0AAAAAACETCB6SJAOHDPGN3Q4X3ZPKZHM7UIA)
