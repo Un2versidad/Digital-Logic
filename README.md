@@ -29,3 +29,8 @@ Explore the content for learning and inspiration.
 
 ## Basys3
 ![download](https://github.com/qzxtu/Digital-Logic/assets/69091361/1f8a1600-e814-46ca-bab0-0715aefd909f)
+
+### Additional Resources
+
+- **Schematic Diagrams:** [Basys 3 Schematic (PDF)](https://digilent.com/reference/_media/reference/programmable-logic/basys-3/basys-3_sch.pdf)
+- **Basys3 Manual:** [Basys 3 Reference Manual](https://digilent.com/reference/programmable-logic/basys-3/reference-manual)
