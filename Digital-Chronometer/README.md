@@ -12,7 +12,7 @@ This repository contains the source code and documentation for a digital stopwat
 
 ## Video
 
-https://github.com/qzxtu/Cronometro-Digital/assets/69091361/080bf58f-d6a0-4ca4-a94b-5a10ee8a9052
+https://github.com/qzxtu/Digital-Logic/assets/69091361/deb39a0f-bf06-4feb-9ddf-995937dd3771
 
 ## Instructions for use
 
