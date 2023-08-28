@@ -24,10 +24,11 @@ Here you will find:
   
 - **Simulation and Verification:** Using software tools to simulate and verify VHDL designs, especially in the context of the Basys 3 board and Vivado.
 
-![image](https://github.com/qzxtu/Digital-Logic/assets/69091361/f3fee84c-fb3a-4551-a1c9-e2a79b51eb12)
+![image](https://cdn.discordapp.com/attachments/689717323543609386/1145805256878461068/169325166294596003.png)
 
 ## Basys 3 Development Board Components and Features 🛠️
-![download](https://github.com/qzxtu/Digital-Logic/assets/69091361/1f8a1600-e814-46ca-bab0-0715aefd909f)
+
+![image](https://cdn.discordapp.com/attachments/689717323543609386/1145805392778104962/169325169494628305.png)
 
 The Basys 3 development board offers a wide range of components and features for digital design and experimentation:
 
