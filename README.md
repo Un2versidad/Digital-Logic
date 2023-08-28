@@ -1,11 +1,11 @@
 ![VHDL Logo](https://cdn.discordapp.com/attachments/689717323543609386/1145782789707407381/169324630589239089.png)
-
-## Description
-Welcome to the University Projects Repository for Introduction to VHDL and Digital Logic, focusing on the Basys 3 board and Vivado!
+---
+## **Welcome to the University Projects Repository for Introduction to VHDL and Digital Logic, focusing on the Basys 3 board and Vivado! 🚀**
 
 This repository provides resources to comprehend VHDL, a hardware description language crucial for designing and simulating digital circuits. These projects were created as part of university courses and are tailored to work specifically with the Basys 3 development board and Vivado design suite.
 
-## Contents
+## Contents 📚
+
 Here you will find:
 
 - **Basic Concepts:** Description of VHDL and its significance in digital circuit design.
@@ -23,13 +23,13 @@ Here you will find:
 - **State Diagrams:** Designing and representing digital system behaviors using state diagrams.
   
 - **Simulation and Verification:** Using software tools to simulate and verify VHDL designs, especially in the context of the Basys 3 board and Vivado.
-  
+
 ![image](https://github.com/qzxtu/Digital-Logic/assets/69091361/f3fee84c-fb3a-4551-a1c9-e2a79b51eb12)
 
-## Basys 3 Development Board Components and Features
+## Basys 3 Development Board Components and Features 🛠️
 ![download](https://github.com/qzxtu/Digital-Logic/assets/69091361/1f8a1600-e814-46ca-bab0-0715aefd909f)
----
-### The Basys 3 development board offers a wide range of components and features for digital design and experimentation:
+
+The Basys 3 development board offers a wide range of components and features for digital design and experimentation:
 
 - **Clock:** An internal clock that Verilog projects can utilize, featuring an additional line for configuration.
   
@@ -49,8 +49,26 @@ Here you will find:
   
 - **Quad SPI Flash:** Flash memory for storage.
 
-### Additional Resources
+### Projects 🚀
+
+- [Basys3MusicNotes](https://github.com/qzxtu/Digital-Logic/tree/main/Basys3MusicNotes): Implementation of a musical system on a Basys 3 board.
+
+- [BlinkyLed](https://github.com/qzxtu/Digital-Logic/tree/main/BlinkyLed): Basic example of a blinking LED on an FPGA.
+
+- [Constraints Template](https://github.com/qzxtu/Digital-Logic/tree/main/Constraints%20Template): Template for FPGA project constraints.
+
+- [Dec3_8](https://github.com/qzxtu/Digital-Logic/tree/main/Dec3_8): Design of a 3-to-8 decoder in VHDL.
+
+- [Digital-Chronometer](https://github.com/qzxtu/Digital-Logic/tree/main/Digital-Chronometer): Digital chronometer implemented on an FPGA.
+
+- [Modules Template](https://github.com/qzxtu/Digital-Logic/tree/main/Modules%20Template): Template for reusable VHDL modules.
+
+- [Random-Generator](https://github.com/qzxtu/Digital-Logic/tree/main/Random-Generator): Random number generator using digital logic.
+
+### Additional Resources 📖
 
 - **Schematic Diagrams:** [Basys 3 Schematic (PDF)](https://digilent.com/reference/_media/reference/programmable-logic/basys-3/basys-3_sch.pdf)
+
 - **Basys3 Manual:** [Basys 3 Reference Manual](https://digilent.com/reference/programmable-logic/basys-3/reference-manual)
+  
 - **Constraints:** [Basys 3 Constraints (XDC)](https://raw.githubusercontent.com/qzxtu/Digital-Logic/main/Constraints%20Template/Basys3_Constraints.xdc?token=GHSAT0AAAAAACG3OZRFAJ64EMJOSI4C437CZHM733A)
