@@ -1,4 +1,4 @@
-![VHDL Logo](https://cdn.discordapp.com/attachments/689717323543609386/1145781428861288600/169324598188914426.png)
+![VHDL Logo](https://cdn.discordapp.com/attachments/689717323543609386/1145782789707407381/169324630589239089.png)
 
 ## Description
 Welcome to the University Projects Repository for Introduction to VHDL and Digital Logic, focusing on the Basys 3 board and Vivado!
