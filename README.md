@@ -26,9 +26,6 @@ Here you will find:
   
 ![image](https://github.com/qzxtu/Digital-Logic/assets/69091361/f3fee84c-fb3a-4551-a1c9-e2a79b51eb12)
 
-## Usage
-Explore the content for learning and inspiration.
-
 ## Basys 3 Development Board Components and Features
 ![download](https://github.com/qzxtu/Digital-Logic/assets/69091361/1f8a1600-e814-46ca-bab0-0715aefd909f)
 ---
