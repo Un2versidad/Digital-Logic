@@ -58,6 +58,18 @@ The Basys 3 development board offers a wide range of components and features for
 
 Click generate bitstream (can be carried out step by step, Run Synthesis - Run Implementation - Generate bitstream) and generate bit files and bin files.
 
+- **Synthesis:** Run synthesis to convert your high-level design into a gate-level netlist. This step optimizes the design for performance, area, and power, generating a representation that can be implemented on the FPGA.
+
+- **Implementation:** In this step, the synthesis results are used to place and route the design onto the target FPGA device. This process involves mapping the logic elements of your design to the physical resources on the FPGA.
+
+- **Generate Bitstream:** The final implementation generates a bitstream file that contains configuration data for the FPGA. This bitstream is what you'll load onto the FPGA to program its behavior.
+
+- **Programming:** Connect your FPGA board to the development environment, and use Vivado to program the bitstream onto the FPGA. This configures the FPGA to function according to your design specifications.
+
+- **Debugging and Verification:** Vivado provides debugging tools to help you troubleshoot your design. You can simulate your design, use logic analyzers, and interact with the FPGA to ensure proper functionality.
+
+- **Hardware Debugging:** If needed, you can use hardware debugging tools to probe and analyze signals within the FPGA during runtime. This is especially useful for identifying issues that may arise due to physical connections.
+  
 ![image](https://github.com/qzxtu/Digital-Logic/assets/69091361/587a7734-6b92-4a4d-b130-ab37d6858858)
 </details>
 
