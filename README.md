@@ -71,7 +71,6 @@ Click generate bitstream（can be carried out step by step, Run Synthesis - Run 
 - **Step 3:** In the dialog window which opens up, Vivado automatically chooses the correct bitstream file if the design was synthesized, implemented and bitstream generated successfully. If needed, browse to the bitstream which needs to be programmed to FPGA. Finally, click “Program”.
 
 ![image](https://github.com/qzxtu/Digital-Logic/assets/69091361/dcf6f644-7c9b-4dd6-a89d-2ab481c634bd)
----
 ## Resources 👨🏻‍🔬
 
 ### Projects 🚀
