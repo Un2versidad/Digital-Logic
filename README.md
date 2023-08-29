@@ -73,3 +73,7 @@ The Basys 3 development board offers a wide range of components and features for
 - **Basys3 Manual:** [Basys 3 Reference Manual](https://digilent.com/reference/programmable-logic/basys-3/reference-manual)
   
 - **Constraints:** [Basys 3 Constraints (XDC)](https://raw.githubusercontent.com/qzxtu/Digital-Logic/main/Constraints%20Template/Basys3_Constraints.xdc?token=GHSAT0AAAAAACG3OZRFAJ64EMJOSI4C437CZHM733A)
+
+- **Basys3 Introduction Video:** [FPGA INTRODUCTION (BASYS 3)](https://www.youtube.com/watch?v=egx3LFqZs5U)
+
+- **Vivado/Vhdl Video Collection:** [DIGITAL PROGRAMMABLE ELECTRONICS](https://www.youtube.com/@ELECTRONICADIGITALPROGRAMABLE)
