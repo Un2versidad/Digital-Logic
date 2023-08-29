@@ -100,7 +100,7 @@ Click generate bitstream（can be carried out step by step, Run Synthesis - Run 
 
 - **Basys3 Introduction Video:** [FPGA INTRODUCTION (BASYS 3)](https://www.youtube.com/watch?v=egx3LFqZs5U)
 
-- **Vivado/Vhdl Video Collection:** [DIGITAL PROGRAMMABLE ELECTRONICS](https://www.youtube.com/@ELECTRONICADIGITALPROGRAMABLE)
+- **Vivado / VHDL Video Collection:** [DIGITAL PROGRAMMABLE ELECTRONICS](https://www.youtube.com/@ELECTRONICADIGITALPROGRAMABLE)
 
 - **Vivado Download:** [(AMD XILINX) In my case I am using the version 2023.1](https://www.xilinx.com/support/download.html)
 
