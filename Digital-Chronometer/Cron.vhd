@@ -1,3 +1,15 @@
+-- This VHDL code describes a digital stopwatch that displays the elapsed time on a 7-segment display. 
+-- The stopwatch is controlled by a 100MHz clock signal and has three inputs: start_stop, reset, and clk100mhz. 
+-- The start_stop input starts and stops the stopwatch, the reset input resets the stopwatch to zero, and the clk100mhz input is the clock signal. 
+-- The stopwatch displays the elapsed time in centiseconds, deciseconds, seconds, and decaseconds on a 7-segment display. 
+-- The elapsed time is also displayed on four LEDs. 
+-- The code uses a component called mux7sgm to display the elapsed time on the 7-segment display. 
+-- The code uses several signals to keep track of the elapsed time and to control the display. 
+-- The code uses two processes to control the stopwatch and the display. 
+-- The first process generates a 1Hz clock signal from the 100MHz clock signal. 
+-- The second process controls the stopwatch and updates the display. 
+-- The code is written in VHDL and is intended to be synthesized and implemented on an FPGA.
+
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 use IEEE.STD_LOGIC_UNSIGNED.ALL;
