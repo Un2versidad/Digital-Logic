@@ -1,7 +1,5 @@
 ![VHDL Logo](https://cdn.discordapp.com/attachments/689717323543609386/1145782789707407381/169324630589239089.png)
----
 ## **Welcome to the University Projects Repository for Introduction to VHDL and Digital Logic, focusing on the Basys 3 board and Vivado! 🚀**
-
 This repository provides resources to comprehend VHDL, a hardware description language crucial for designing and simulating digital circuits. These projects were created as part of university courses and are tailored to work specifically with the Basys 3 development board and Vivado design suite.
 
 ## Contents 📚
