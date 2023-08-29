@@ -50,25 +50,37 @@ The Basys 3 development board offers a wide range of components and features for
 
 ## Vivado Usage 💻
 
-### Generate .Bin File 📔
+- Vivado is a powerful tool for FPGA (Field-Programmable Gate Array) development provided by Xilinx. It offers a comprehensive suite of tools to design, synthesize, implement, and program FPGAs. Here's a quick overview of its usage:
 
-Click generate bitstream（can be carried out step by step, Run Synthesis - Run Implementation - Generate bitstream）and generate bit files and bin files.
+<details>
+
+<summary>Generate .Bin File 📔</summary>
+
+Click generate bitstream (can be carried out step by step, Run Synthesis - Run Implementation - Generate bitstream) and generate bit files and bin files.
 
 ![image](https://github.com/qzxtu/Digital-Logic/assets/69091361/587a7734-6b92-4a4d-b130-ab37d6858858)
----
-### Program Basys3 ⚙️
+</details>
 
-- **Step 1:** Open the Vivado project and open the target by clicking on the “Open Target” in “Open Hardware Manager” in the “Program and Debug” section of the Flow Navigator window. Select “Auto Connect”.
+- Vivado's intuitive graphical interface and powerful command-line tools make it a comprehensive environment for FPGA development. It's commonly used for a wide range of applications, including digital signal processing, embedded systems, high-performance computing, and more.
 
-![image](https://github.com/qzxtu/Digital-Logic/assets/69091361/c52290df-eb92-4de6-b3e6-ec8630371dd4)
+<details>
 
-- **Step 2:** If the device is detected successfully, then select “Program Device” by right click on the target device as shown below.
-  
-![image](https://github.com/qzxtu/Digital-Logic/assets/69091361/8a634eac-7b60-4ecc-aa9a-fdc33dbb3e10)
+<summary>Program Basys3 ⚙️</summary>
 
-- **Step 3:** In the dialog window which opens up, Vivado automatically chooses the correct bitstream file if the design was synthesized, implemented and bitstream generated successfully. If needed, browse to the bitstream which needs to be programmed to FPGA. Finally, click “Program”.
+- **Step 1:** Open the Vivado project and open the target by clicking on "Open Target" in "Open Hardware Manager" in the "Program and Debug" section of the Flow Navigator window. Select "Auto Connect".
 
-![image](https://github.com/qzxtu/Digital-Logic/assets/69091361/dcf6f644-7c9b-4dd6-a89d-2ab481c634bd)
+  ![Step 1](https://github.com/qzxtu/Digital-Logic/assets/69091361/c52290df-eb92-4de6-b3e6-ec8630371dd4)
+
+- **Step 2:** If the device is detected successfully, then select "Program Device" by right-clicking on the target device.
+
+  ![Step 2](https://github.com/qzxtu/Digital-Logic/assets/69091361/8a634eac-7b60-4ecc-aa9a-fdc33dbb3e10)
+
+- **Step 3:** In the dialog window which opens up, Vivado automatically chooses the correct bitstream file if the design was synthesized, implemented, and bitstream generated successfully. If needed, browse to the bitstream which needs to be programmed to FPGA. Finally, click "Program".
+
+  ![Step 3](https://github.com/qzxtu/Digital-Logic/assets/69091361/dcf6f644-7c9b-4dd6-a89d-2ab481c634bd)
+
+</details>
+
 ## Resources 👨🏻‍🔬
 
 ### Projects 🚀
