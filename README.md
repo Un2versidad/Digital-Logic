@@ -50,7 +50,7 @@ The Basys 3 development board offers a wide range of components and features for
   
 - **Quad SPI Flash:** Flash memory for storage.
 
-## Usage 💻
+## Vivado Usage 💻
 
 ### Generate .Bin File 📔
 
