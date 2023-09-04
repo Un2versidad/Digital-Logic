@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vivado, Basys 3, VHDL, and XDC</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100">
+    <header class="bg-blue-500 text-white p-4">
+        <div class="container mx-auto">
+            <h1 class="text-3xl font-semibold">Welcome to the University Projects Repository</h1>
+            <p class="mt-2">for Introduction to VHDL and Digital Logic, focusing on the Basys 3 board and Vivado! 🚀</p>
+        </div>
+    </header>
+
+    <main class="container mx-auto p-6">
+        <section class="bg-white shadow-lg rounded-lg p-6 mb-6">
+            <h2 class="text-xl font-semibold mb-4">Contents 📚</h2>
+            <ul class="list-disc list-inside">
+                <li>Basic Concepts: Description of VHDL and its significance in digital circuit design.</li>
+                <li>Digital Logic Fundamentals: Basic principles of digital electronics and their application in circuit design.</li>
+                <li>Concurrent and Sequential Statements: Organizing VHDL statements to create efficient circuits.</li>
+                <li>Structural Design: Composing complex circuits using simpler components with VHDL.</li>
+                <li>Selected and Conditional Signals: Implementing conditional logic in VHDL designs.</li>
+                <li>Components and Generation: Creating reusable components and generating efficient design structures.</li>
+                <li>State Diagrams: Designing and representing digital system behaviors using state diagrams.</li>
+                <li>Simulation and Verification: Using software tools to simulate and verify VHDL designs, especially in the context of the Basys 3 board and Vivado.</li>
+            </ul>
+        </section>
+
+        <section class="bg-white shadow-lg rounded-lg p-6 mb-6">
+            <h2 class="text-xl font-semibold mb-4">Basys 3 Development Board Components and Features 🛠️</h2>
+            <ul class="list-disc list-inside">
+                <li>Clock: An internal clock that Verilog projects can utilize, featuring an additional line for configuration.</li>
+                <li>Switches: 16 switches located along the bottom edge of the board.</li>
+                <li>LEDs: 16 small LEDs positioned above the switches along the bottom of the board.</li>
+                <li>7-Segment Display: A 4-digit 7-segment display.</li>
+                <li>Pushbuttons/Buttons: Five accessible buttons in the middle of the board. These buttons are designed to prevent bouncing.</li>
+                <li>PMOD Headers: These are 4-pin and 12-pin connectors located on the sides of the board, allowing communication with external devices.</li>
+                <li>VGA Connector: VGA port for graphical display capabilities.</li>
+                <li>USB Connections: Interfaces for communication through USB.</li>
+                <li>Quad SPI Flash: Flash memory for storage.</li>
+            </ul>
+        </section>
+
+        <section class="bg-white shadow-lg rounded-lg p-6 mb-6">
+            <h2 class="text-xl font-semibold mb-4">Vivado Usage 💻</h2>
+            <details>
+                <summary>Generate .Bin File 📔</summary>
+                <p>Click generate bitstream (can be carried out step by step, Run Synthesis - Run Implementation - Generate bitstream) and generate bit files and bin files.</p>
+            </details>
+            <details>
+                <summary>Program Basys3 ⚙️</summary>
+                <p>Step-by-step instructions for programming the Basys 3 board with Vivado.</p>
+            </details>
+        </section>
+
+        <section class="bg-white shadow-lg rounded-lg p-6">
+            <h2 class="text-xl font-semibold mb-4">Resources 👨🏻‍🔬</h2>
+            <h3 class="text-lg font-semibold mb-2">Projects 🚀</h3>
+            <ul class="list-disc list-inside">
+                <li><a href="https://github.com/qzxtu/Digital-Logic/tree/main/Basys3MusicNotes" class="text-blue-500 hover:underline">Basys3MusicNotes</a>: Implementation of a musical system on a Basys 3 board.</li>
+                <li><a href="https://github.com/qzxtu/Digital-Logic/tree/main/BlinkyLed" class="text-blue-500 hover:underline">BlinkyLed</a>: Basic example of a blinking LED on an FPGA.</li>
+                <li><a href="https://github.com/qzxtu/Digital-Logic/tree/main/Constraints%20Template" class="text-blue-500 hover:underline">Constraints Template</a>: Template for FPGA project constraints.</li>
+                <li><a href="https://github.com/qzxtu/Digital-Logic/tree/main/Dec3_8" class="text-blue-500 hover:underline">Dec3_8</a>: Design of a 3-to-8 decoder in VHDL.</li>
+                <li><a href="https://github.com/qzxtu/Digital-Logic/tree/main/Digital-Chronometer" class="text-blue-500 hover:underline">Digital-Chronometer</a>: Digital chronometer implemented on an FPGA.</li>
+                <li><a href="https://github.com/qzxtu/Digital-Logic/tree/main/Modules%20Template" class="text-blue-500 hover:underline">Modules Template</a>: Template for reusable VHDL modules.</li>
+                <li><a href="https://github.com/qzxtu/Digital-Logic/tree/main/Random-Generator" class="text-blue-500 hover:underline">Random-Generator</a>: Random number generator using digital logic.</li>
+            </ul>
+            <h3 class="text-lg font-semibold mt-4 mb-2">Additional Resources 📖</h3>
+            <ul class="list-disc list-inside">
+                <li><a href="https://digilent.com/reference/_media/reference/programmable-logic/basys-3/basys-3_sch.pdf" class="text-blue-500 hover:underline">Schematic Diagrams: Basys 3 Schematic (PDF)</a></li>
+                <li><a href="https://digilent.com/reference/programmable-logic/basys-3/reference-manual" class="text-blue-500 hover:underline">Basys3 Manual: Basys 3 Reference Manual</a></li>
+                <li><a href="https://raw.githubusercontent.com/qzxtu/Digital-Logic/main/Constraints%20Template/Basys3_Constraints.xdc?token=GHSAT0AAAAAACG3OZRFAJ64EMJOSI4C437CZHM733A" class="text-blue-500 hover:underline">Constraints: Basys 3 Constraints (XDC)</a></li>
+                <li><a href="https://www.youtube.com/watch?v=egx3LFqZs5U" class="text-blue-500 hover:underline">Basys3 Introduction Video</a></li>
+                <li><a href="https://www.youtube.com/@ELECTRONICADIGITALPROGRAMABLE" class="text-blue-500 hover:underline">Vivado / VHDL Video Collection</a></li>
+                <li><a href="https://www.xilinx.com/support/download.html" class="text-blue-500 hover:underline">Vivado Download (AMD XILINX)</a></li>
+                <li><a href="https://www.youtube.com/watch?app=desktop&v=Lc2EEbZmlz0" class="text-blue-500 hover:underline">Vivado Download Tutorial</a></li>
+                <li><a href="https://docs.xilinx.com/r/en-US/ug936-vivado-tutorial-programming-debugging/Please-Read-Important-Legal-Notices" class="text-blue-500 hover:underline">Vivado Documentation (AMD XILINX Documentation Portal)</a></li>
+            </ul>
+        </section>
+    </main>
+</body>
+</html>
