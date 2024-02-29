@@ -1,4 +1,4 @@
-![VHDL Logo](https://cdn.discordapp.com/attachments/689717323543609386/1145782789707407381/169324630589239089.png)
+![VHDL Logo](https://raw.githubusercontent.com/qzxtu/Digital-Logic/main/res/169324630589239089.png)
 ## **Welcome to the University Projects Repository for Introduction to VHDL and Digital Logic, focusing on the Basys 3 board and Vivado! 🚀**
 This repository provides resources to comprehend VHDL, a hardware description language crucial for designing and simulating digital circuits. These projects were created as part of university courses and are tailored to work specifically with the Basys 3 development board and Vivado design suite.
 
@@ -22,11 +22,11 @@ Here you will find:
   
 - **Simulation and Verification:** Using software tools to simulate and verify VHDL designs, especially in the context of the Basys 3 board and Vivado.
 
-![image](https://cdn.discordapp.com/attachments/689717323543609386/1145805256878461068/169325166294596003.png)
+![image](https://raw.githubusercontent.com/qzxtu/Digital-Logic/main/res/169325166294596003.png)
 
 ## Basys 3 Development Board Components and Features 🛠️
 
-![image](https://cdn.discordapp.com/attachments/689717323543609386/1145805392778104962/169325169494628305.png)
+![image](https://raw.githubusercontent.com/qzxtu/Digital-Logic/main/res/169325169494628305.png)
 
 The Basys 3 development board offers a wide range of components and features for digital design and experimentation:
 
